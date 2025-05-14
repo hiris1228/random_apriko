@@ -360,7 +360,7 @@ def compute_pestle_timeseries_from_links(df: pd.DataFrame, press_df: pd.DataFram
 ##############################################
 
 st.title("🏦🌍🚨 apoBank Trends")
-st.caption("🚀 Blablabla...")
+st.caption("🚀 Trend mapping and impact analysis for apoBank.")
 
 # Sidebar
 
