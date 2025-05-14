@@ -1,0 +1,31 @@
+PESTLE,Trend,Description,link,DC,SS,AC,AT,RL,SC,EF,IB,Total
+social,Action plan for accessible healthcare.,Launch of an action plan for a barrier-free healthcare system.,"4, 6, 17, 335, 352",5,5,4,3,3,4,3,4,31
+political,Enhanced mental health and public health support initiatives.,Initiatives for improved mental health support and public health services,"0, 13, 15, 25, 334, 336, 338, 339, 340, 341, 343, 344, 345, 348, 349, 350, 353, 354, 355",4,4,4,3,2,4,3,4,28
+technological,AI integration in everyday life.,Integration of AI in daily life,"1, 2, 3, 5, 8, 9, 11, 12, 14, 16, 18, 19, 20, 21, 22, 23, 24, 26, 27, 29, 30, 31, 33, 34, 332, 333, 342, 346",2,5,4,4,1,4,4,4,28
+economic,Bundesrat supports nursing finance stabilization.,Bundesrat approves stabilization of nursing finances,"32, 337, 347, 351",3,4,4,2,4,4,4,2,27
+political,Health system reforms and legislation updates.,Announcements on health system transformations and strengthening legislation,"0, 13, 15, 25, 334, 336, 338, 339, 340, 341, 343, 344, 345, 348, 349, 350, 353, 354, 355",4,4,3,2,4,4,2,4,27
+political,Vaccination campaigns and legislative support.,Legislative approvals and calls for vaccination campaigns.,"0, 13, 15, 25, 334, 336, 338, 339, 340, 341, 343, 344, 345, 348, 349, 350, 353, 354, 355",4,4,2,2,4,4,2,2,24
+technological,Space digital transformation.,Digital transformation of space,"1, 2, 3, 5, 8, 9, 11, 12, 14, 16, 18, 19, 20, 21, 22, 23, 24, 26, 27, 29, 30, 31, 33, 34, 332, 333, 342, 346",2,4,2,4,1,2,2,4,21
+technological,First quantum-secure smart card launched.,Introduction of first quantum-secure smart card.,"1, 2, 3, 5, 8, 9, 11, 12, 14, 16, 18, 19, 20, 21, 22, 23, 24, 26, 27, 29, 30, 31, 33, 34, 332, 333, 342, 346",1,4,2,5,1,2,2,4,21
+legal,European Competence Center for Digital Sovereignty established.,New European Competence Center for Digital Sovereignty established,"7, 10, 28",2,4,2,4,3,2,2,2,21
+legal,Critical Infrastructure Protection Ordinance enacted.,Critical Infrastructure Protection Ordinance enters into force.,"7, 10, 28",2,4,2,2,5,2,1,2,20
+legal,Updated cryptography technical guidelines.,Technical Guideline for cryptography updated,"7, 10, 28",2,2,2,4,3,1,1,4,19
+technological,Significance of RED in cybersecurity.,Importance of RED in cybersecurity,"1, 2, 3, 5, 8, 9, 11, 12, 14, 16, 18, 19, 20, 21, 22, 23, 24, 26, 27, 29, 30, 31, 33, 34, 332, 333, 342, 346",2,4,2,4,2,2,1,2,19
+technological,IT security strategies for small and medium-sized airports.,IT security for small and medium-sized airports,"1, 2, 3, 5, 8, 9, 11, 12, 14, 16, 18, 19, 20, 21, 22, 23, 24, 26, 27, 29, 30, 31, 33, 34, 332, 333, 342, 346",1,2,4,4,2,1,2,2,18
+economic,Health insurance financial development Q1-Q3 2024.,Financial development of statutory health insurance in Q1 to Q3 2024.,"32, 337, 347, 351",2,3,2,2,4,2,2,1,18
+technological,Drones as cyber threats.,Drones as cyber threats,"1, 2, 3, 5, 8, 9, 11, 12, 14, 16, 18, 19, 20, 21, 22, 23, 24, 26, 27, 29, 30, 31, 33, 34, 332, 333, 342, 346",1,4,2,4,1,1,1,4,18
+technological,BSI Resilience Cloud Solution,BSI resilience cloud solution,"1, 2, 3, 5, 8, 9, 11, 12, 14, 16, 18, 19, 20, 21, 22, 23, 24, 26, 27, 29, 30, 31, 33, 34, 332, 333, 342, 346",1,4,2,4,1,1,1,4,18
+technological,ZenDiS enhances supply chain security.,Secure supply chains with ZenDiS,"1, 2, 3, 5, 8, 9, 11, 12, 14, 16, 18, 19, 20, 21, 22, 23, 24, 26, 27, 29, 30, 31, 33, 34, 332, 333, 342, 346",2,2,2,4,1,1,1,2,15
+political,Leadership changes and strategic recommendations in security.,New leadership appointments and strategic recommendations in security sector,"0, 13, 15, 25, 334, 336, 338, 339, 340, 341, 343, 344, 345, 348, 349, 350, 353, 354, 355",2,2,2,2,2,2,1,2,15
+social,Positive feedback on long COVID roundtable.,Positive interim assessment of the 5th roundtable on long COVID,"4, 6, 17, 335, 352",2,2,2,2,1,2,1,2,14
+social,Sextortion awareness campaign on Valentine's Day.,Awareness campaign for sextortion on Valentine's Day,"4, 6, 17, 335, 352",1,2,2,2,1,2,1,2,13
+political,Germany backs WHO initiatives.,Germany supporting WHO efforts,"0, 13, 15, 25, 334, 336, 338, 339, 340, 341, 343, 344, 345, 348, 349, 350, 353, 354, 355",2,4,2,1,1,1,1,1,13
+technological,Secure password update methods.,Advanced password change practices,"1, 2, 3, 5, 8, 9, 11, 12, 14, 16, 18, 19, 20, 21, 22, 23, 24, 26, 27, 29, 30, 31, 33, 34, 332, 333, 342, 346",1,2,2,2,1,1,1,2,12
+technological,Windows 10 support ending.,End of support for Windows 10,"1, 2, 3, 5, 8, 9, 11, 12, 14, 16, 18, 19, 20, 21, 22, 23, 24, 26, 27, 29, 30, 31, 33, 34, 332, 333, 342, 346",1,1,2,2,1,1,1,2,11
+technological,World Backup Day awareness promotes data protection.,World Backup Day awareness,"1, 2, 3, 5, 8, 9, 11, 12, 14, 16, 18, 19, 20, 21, 22, 23, 24, 26, 27, 29, 30, 31, 33, 34, 332, 333, 342, 346",1,1,2,2,1,2,1,1,11
+social,100 women recognized in economics.,100 women to be honored in the field of economics,"4, 6, 17, 335, 352",1,2,2,1,1,1,1,1,10
+economic,2024 health insurance financial results.,Preliminary financial results of statutory health insurance for the year 2024,"32, 337, 347, 351",2,2,1,1,1,1,1,1,10
+technological,Insights on Windows architectures.,Perspectives on Windows architectures,"1, 2, 3, 5, 8, 9, 11, 12, 14, 16, 18, 19, 20, 21, 22, 23, 24, 26, 27, 29, 30, 31, 33, 34, 332, 333, 342, 346",1,1,2,2,1,1,1,1,10
+technological,Safer Internet Day: debunking email myths.,Safer Internet Day: email myths,"1, 2, 3, 5, 8, 9, 11, 12, 14, 16, 18, 19, 20, 21, 22, 23, 24, 26, 27, 29, 30, 31, 33, 34, 332, 333, 342, 346",1,1,2,2,1,1,1,1,10
+technological,E-World certification transfer.,E-World certification handover,"1, 2, 3, 5, 8, 9, 11, 12, 14, 16, 18, 19, 20, 21, 22, 23, 24, 26, 27, 29, 30, 31, 33, 34, 332, 333, 342, 346",1,1,2,2,1,1,1,1,10
+technological,Collaboration agreement with Hamburg.,Collaboration agreement with Hamburg,"1, 2, 3, 5, 8, 9, 11, 12, 14, 16, 18, 19, 20, 21, 22, 23, 24, 26, 27, 29, 30, 31, 33, 34, 332, 333, 342, 346",1,1,2,2,1,1,1,1,10
