@@ -152,7 +152,7 @@ def show_press_release_from_index(index: int, df: pd.DataFrame, pr_df):
         st.warning("⚠️ Some metric columns are missing from the dataset.")
         
     # Expander with linked press releases sorted by date
-    with st.expander(f"🔗 Trends item {index} — linked to {len(link_ids)} press release(s)"):
+    with st.expander(f"🔗 Trends item — linked to {len(link_ids)} press release(s)"):
         valid_rows = []
         for link_id in link_ids:
             if 0 <= link_id < len(pr_df):
